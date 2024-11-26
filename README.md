@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+Im a school student trying to learn python and I am here to get better.
 <!--
 **davidors907/davidors907** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
